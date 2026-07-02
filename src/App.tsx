@@ -116,7 +116,7 @@ export default function App() {
               transition={{ delay: 3, duration: 1.5 }}
               className="z-20 text-center"
             >
-              <h2 className="text-pink-deep font-mono text-xl tracking-[0.3em] uppercase glow-text mb-2">
+              <h2 className="text-red-600 font-mono text-xl tracking-[0.3em] uppercase glow-text mb-2">
                 Balaca Bocek
               </h2>
               <div className="w-12 h-px bg-pink-deep/30 mx-auto mb-8" />
